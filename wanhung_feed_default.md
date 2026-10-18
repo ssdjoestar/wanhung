@@ -7794,9 +7794,9 @@ ISO27001:2022 稽核員改版轉版課程 (待公告開課)
 
 摘要：昇華科技ISO27001認證驗證保險大贏家(萬弘資訊輔導)。標準名稱定位角度觀察 ISO27002從控制項 （Controls)角度觀察 ISO27001認證驗證流程 ISO27001認證關鍵剖析 (聽完您就有更深的認識) ISO27001認證客戶參考 昇華科技ISO27001認
 
-- [標準名稱定位角度觀察](https://www.wanhung.com.tw/2023/06/iso27001.html#%E6%A8%99%E6%BA%96%E5%90%8D%E7%A8%B1%E5%AE%9A%E4%BD%8D%E8%A7%92%E5%BA%A6%E8%A7%80%E5%AF%9F)
+- [標準名稱定位角度觀察](https://www.wanhung.com.tw/2021/10/ISO27002trans.html#%E6%A8%99%E6%BA%96%E5%90%8D%E7%A8%B1%E5%AE%9A%E4%BD%8D%E8%A7%92%E5%BA%A6%E8%A7%80%E5%AF%9F)
 - [ISO27002從控制項  
-  （Controls)角度觀察](https://www.wanhung.com.tw/2023/06/iso27001.html#%E9%9B%BB%E5%AD%90%E7%99%BC%E7%A5%A8%E5%8A%A0%E5%80%BC%E4%B8%AD%E5%BF%83ISO27001%E8%AA%8D%E8%AD%89%E8%B2%BB%E7%94%A8)
+  （Controls)角度觀察](https://www.wanhung.com.tw/2020/06/iso27001certificationBSI.html)
 - [ISO27001認證驗證流程](https://iso27001.wanhung.com.tw/iso27001/iso27001%E8%AA%8D%E8%AD%89%E9%A9%97%E8%AD%89.html)
 - [ISO27001認證關鍵剖析  
   (聽完您就有更深的認識)](https://www.youtube.com/watch?v=m5aiWDXUs2M)
@@ -8001,6 +8001,7 @@ Mobile Phone：0901-062511**************
 ![ISO9001:2026認證驗證費用輔導](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieN4zr5nqB1h_Lf4uCHxH2Bh3pDyyaRB72H4dEJRd0Cfp3DMiqi1jLmQQL1ZnZ0fBJB0WRsdkx0Wv5vWCDngm2yMBrOTgxRg-Say4_0tBBO2p_dqJcVbf9uppwDOkwWpv1YupMwrc-nVD2XHmXS7ee1_UTyLeLnufmqmWXQpkKOdKclKyxuzPSj3jDlA/w640-h488/iso9001.jpg)
 
 
+
 #### ISO 9001:2026 輔導認證驗證費用估算（費用透明公開）
 
 2026年9月7日持續更新，以市場價來計算的話，台灣區價格
@@ -8090,9 +8091,9 @@ A：ISO 9001:2026 為 ISO 官方規劃中的改版方向，目前條文尚未正
 
 摘要：昇華科技ISO27001輔導認證驗證通過 (萬弘資訊)。標準名稱定位角度觀察 ISO27002從控制項 （Controls)角度觀察 ISO27001認證驗證流程 ISO27001認證關鍵剖析 (聽完您就有更深的認識) ISO27001認證客戶參考 ISO27001輔導認證驗
 
-- [標準名稱定位角度觀察](https://www.wanhung.com.tw/2022/12/gouptechiso27001cert.html#%E6%A8%99%E6%BA%96%E5%90%8D%E7%A8%B1%E5%AE%9A%E4%BD%8D%E8%A7%92%E5%BA%A6%E8%A7%80%E5%AF%9F)
+- [標準名稱定位角度觀察](https://www.wanhung.com.tw/2021/10/ISO27002trans.html#%E6%A8%99%E6%BA%96%E5%90%8D%E7%A8%B1%E5%AE%9A%E4%BD%8D%E8%A7%92%E5%BA%A6%E8%A7%80%E5%AF%9F)
 - [ISO27002從控制項  
-  （Controls)角度觀察](https://www.wanhung.com.tw/2022/12/gouptechiso27001cert.html#%E9%9B%BB%E5%AD%90%E7%99%BC%E7%A5%A8%E5%8A%A0%E5%80%BC%E4%B8%AD%E5%BF%83ISO27001%E8%AA%8D%E8%AD%89%E8%B2%BB%E7%94%A8)
+  （Controls)角度觀察](https://www.wanhung.com.tw/2020/06/iso27001certificationBSI.html)
 - [ISO27001認證驗證流程](https://iso27001.wanhung.com.tw/iso27001/iso27001%E8%AA%8D%E8%AD%89%E9%A9%97%E8%AD%89.html)
 - [ISO27001認證關鍵剖析  
   (聽完您就有更深的認識)](https://www.youtube.com/watch?v=m5aiWDXUs2M)
@@ -8218,9 +8219,9 @@ iso27001認證機構，請參考 IAF 網站內，閼於 「https://iaf.nu/en/rec
 
 摘要：ISO27001曁ISO27701威朋大數據認證驗證通過(萬弘資訊)。標準名稱定位角度觀察 ISO27002從控制項 （Controls)角度觀察 ISO27001認證驗證流程 ISO27001認證關鍵剖析 (聽完您就有更深的認識) ISO27001認證客戶參考 ISO27001曁ISO2
 
-- [標準名稱定位角度觀察](https://www.wanhung.com.tw/2022/05/vponiso27001iso27701.html#%E6%A8%99%E6%BA%96%E5%90%8D%E7%A8%B1%E5%AE%9A%E4%BD%8D%E8%A7%92%E5%BA%A6%E8%A7%80%E5%AF%9F)
+- [標準名稱定位角度觀察](https://www.wanhung.com.tw/2021/10/ISO27002trans.html#%E6%A8%99%E6%BA%96%E5%90%8D%E7%A8%B1%E5%AE%9A%E4%BD%8D%E8%A7%92%E5%BA%A6%E8%A7%80%E5%AF%9F)
 - [ISO27002從控制項  
-  （Controls)角度觀察](https://www.wanhung.com.tw/2022/05/vponiso27001iso27701.html#%E9%9B%BB%E5%AD%90%E7%99%BC%E7%A5%A8%E5%8A%A0%E5%80%BC%E4%B8%AD%E5%BF%83ISO27001%E8%AA%8D%E8%AD%89%E8%B2%BB%E7%94%A8)
+  （Controls)角度觀察](https://www.wanhung.com.tw/2020/06/iso27001certificationBSI.html)
 - [ISO27001認證驗證流程](https://iso27001.wanhung.com.tw/iso27001/iso27001%E8%AA%8D%E8%AD%89%E9%A9%97%E8%AD%89.html)
 - [ISO27001認證關鍵剖析  
   (聽完您就有更深的認識)](https://www.youtube.com/watch?v=m5aiWDXUs2M)
@@ -8330,9 +8331,9 @@ ISO27001:2022 稽核員改版轉版課程 (待公告開課)
 
 摘要：ISO27001:2022改版轉版課程費用(課程免費，證照要報名考試收錢)。標準名稱定位角度觀察 ISO27002從控制項 （Controls)角度觀察 ISO27001認證驗證流程 ISO27001認證關鍵剖析 (聽完您就有更深的認識) ISO27001認證客戶參考 ISO27001:2022
 
-- [標準名稱定位角度觀察](https://www.wanhung.com.tw/2022/05/iso27001for2022course.html#%E6%A8%99%E6%BA%96%E5%90%8D%E7%A8%B1%E5%AE%9A%E4%BD%8D%E8%A7%92%E5%BA%A6%E8%A7%80%E5%AF%9F)
+- [標準名稱定位角度觀察](https://www.wanhung.com.tw/2021/10/ISO27002trans.html#%E6%A8%99%E6%BA%96%E5%90%8D%E7%A8%B1%E5%AE%9A%E4%BD%8D%E8%A7%92%E5%BA%A6%E8%A7%80%E5%AF%9F)
 - [ISO27002從控制項  
-  （Controls)角度觀察](https://www.wanhung.com.tw/2022/05/iso27001for2022course.html#%E9%9B%BB%E5%AD%90%E7%99%BC%E7%A5%A8%E5%8A%A0%E5%80%BC%E4%B8%AD%E5%BF%83ISO27001%E8%AA%8D%E8%AD%89%E8%B2%BB%E7%94%A8)
+  （Controls)角度觀察](https://www.wanhung.com.tw/2020/06/iso27001certificationBSI.html)
 - [ISO27001認證驗證流程](https://iso27001.wanhung.com.tw/iso27001/iso27001%E8%AA%8D%E8%AD%89%E9%A9%97%E8%AD%89.html)
 - [ISO27001認證關鍵剖析  
   (聽完您就有更深的認識)](https://www.youtube.com/watch?v=m5aiWDXUs2M)
@@ -8521,8 +8522,8 @@ ISO27002:2022 (四大類別)合計 93個要求
 摘要：ISO27001 Certification and Training Course。Our reference ISO 27001 Certification ISO 27001 Training What is ISO 27001 ISO/IEC 27001 is an international s
 
 - [Our reference](https://www.wanhung.com.tw/2017/04/milestone.html)
-- [ISO 27001 Certification](https://www.wanhung.com.tw/2022/05/certification.html#ISO27001%E8%BC%94%E5%B0%8E%E8%B2%BB%E7%94%A8)
-- [ISO 27001 Training](https://www.wanhung.com.tw/2022/05/certification.html#ISO27001%E8%AA%8D%E8%AD%89%E8%B2%BB%E7%94%A8)
+- [ISO 27001 Certification](https://www.wanhung.com.tw/2018/02/iso27001charge.html#ISO27001%E8%BC%94%E5%B0%8E%E8%B2%BB%E7%94%A8)
+- [ISO 27001 Training](https://www.wanhung.com.tw/2018/02/iso27001charge.html#ISO27001%E8%AA%8D%E8%AD%89%E8%B2%BB%E7%94%A8)
 - [What is ISO 27001](https://www.youtube.com/watch?v=qxjydZ3mkE0)
 
 ISO/IEC 27001 is an international standard on how to manage information security. The standard was originally published jointly by the International Organization for Standardization (ISO) and the International Electrotechnical Commission (IEC) in 2005[1] and then revised in 2013.[2] It details requirements for establishing, implementing, maintaining and continually improving an information security management system (ISMS) – the aim of which is to help organizations make the information assets they hold more secure.[3] A European update of the standard was published in 2017.[4] Organizations that meet the standard's requirements can choose to be certified by an accredited certification body following successful completion of an audit. The effectiveness of the ISO/IEC 27001 certification process and the overall standard has been addressed in a recent large-scale studyISO/IEC 27001:2013 has ten short clauses, plus a long annex, which cover:1. Scope of the standard2. How the document is referenced3. Reuse of the terms and definitions in ISO/IEC 270004. Organizational context and stakeholders5. Information security leadership and high-level support for policy6. Planning an information security management system; risk assessment; risk treatment7. Supporting an information security management system8. Making an information security management system operational9. Reviewing the system's performance10. Corrective actionAnnex A: List of controls and their objectives
@@ -8723,13 +8724,14 @@ Key Words：ESG,CSR.ESG Report,CSR Report,永續報告書,企業社會責任報�
 
 - [標準名稱定位角度觀察](https://www.wanhung.com.tw/2021/10/ISO27002trans.html#%E6%A8%99%E6%BA%96%E5%90%8D%E7%A8%B1%E5%AE%9A%E4%BD%8D%E8%A7%92%E5%BA%A6%E8%A7%80%E5%AF%9F)
 - [ISO27002從控制項  
-  （Controls)角度觀察](https://www.wanhung.com.tw/2021/10/ISO27002trans.html#%E9%9B%BB%E5%AD%90%E7%99%BC%E7%A5%A8%E5%8A%A0%E5%80%BC%E4%B8%AD%E5%BF%83ISO27001%E8%AA%8D%E8%AD%89%E8%B2%BB%E7%94%A8)
+  （Controls)角度觀察](https://www.wanhung.com.tw/2020/06/iso27001certificationBSI.html)
 - [ISO27001認證驗證流程](https://iso27001.wanhung.com.tw/iso27001/iso27001%E8%AA%8D%E8%AD%89%E9%A9%97%E8%AD%89.html)
 - [ISO27001認證關鍵剖析  
   (聽完您就有更深的認識)](https://www.youtube.com/watch?v=m5aiWDXUs2M)
 - [ISO27001認證客戶參考](https://www.wanhung.com.tw/2017/04/milestone.html)
 
 ![ISO27002轉版改版條文方向(2021年10月)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAuTF1Q5awgftPh67ZCsWT4M04e38bLL-i3VPKRjFsIQTm_Oj-LehjILpqATMfDyDfXqkT9xe3Phjah5OAzxuxoBszQNbAw1DScHJiYLcSB6CRbWxbl0HS2rhn0BEae-ooFJ6lOOSEqwVo/w400-h249/ISO27002%25E8%25BD%2589%25E7%2589%2588%25E6%2594%25B9%25E7%2589%2588%25E6%25A2%259D%25E6%2596%2587%25E6%2596%25B9%25E5%2590%2591%25282021%25E5%25B9%25B410%25E6%259C%2588%2529.jpg)
+
 
 ## 標準名稱定位角度觀察 2021年10月24日
 
@@ -8888,8 +8890,8 @@ ISO27002:2021 DIS草案版 (四大類別)合計 93個要求
 摘要：ISO27001是什麼。ISO27001認證客戶參考 ISO 27001輔導費用 ISO 27001認證費用 ISO 27001是什麼 ISO 27001在網路上查詢，可以發現它是資訊安全管理系統，雖然有系統2個字， 它既不是Windows 作
 
 - [ISO27001認證客戶參考](https://www.wanhung.com.tw/2017/04/milestone.html)
-- [ISO 27001輔導費用](https://www.wanhung.com.tw/2021/09/iso27001.html#ISO27001%E8%BC%94%E5%B0%8E%E8%B2%BB%E7%94%A8)
-- [ISO 27001認證費用](https://www.wanhung.com.tw/2021/09/iso27001.html#ISO27001%E8%AA%8D%E8%AD%89%E8%B2%BB%E7%94%A8)
+- [ISO 27001輔導費用](https://www.wanhung.com.tw/2018/02/iso27001charge.html#ISO27001%E8%BC%94%E5%B0%8E%E8%B2%BB%E7%94%A8)
+- [ISO 27001認證費用](https://www.wanhung.com.tw/2018/02/iso27001charge.html#ISO27001%E8%AA%8D%E8%AD%89%E8%B2%BB%E7%94%A8)
 - [ISO 27001是什麼](https://www.youtube.com/watch?v=qxjydZ3mkE0)
 
 ISO 27001在網路上查詢，可以發現它是資訊安全管理系統，雖然有系統2個字，
@@ -8974,6 +8976,8 @@ ISO 27001在網路上查詢，可以發現它是資訊安全管理系統，雖�
 - 洽詢本公司業務窗口：
   sales@wanhung.com.tw （電話: 02-2901-9371), Line id:wanhung1911
 - [ISO27018認證驗證流程說明](https://iso27001.wanhung.com.tw/iso27001/iso27001%E8%AA%8D%E8%AD%89%E9%A9%97%E8%AD%89.html)
+
+
 
 ## ISO27018 + ISO27001輔導費用(20人以上公司)更新於2021年3月22日
 
@@ -9068,6 +9072,8 @@ ISO 27001在網路上查詢，可以發現它是資訊安全管理系統，雖�
   sales@wanhung.com.tw （電話: 02-2901-9371), Line id:wanhung1911
 - [ISO27017認證驗證流程說明](https://iso27001.wanhung.com.tw/iso27001/iso27001%E8%AA%8D%E8%AD%89%E9%A9%97%E8%AD%89.html)
 
+
+
 ## ISO27017 + ISO27001輔導費用(20人以上公司)更新於2021年3月22日
 
 以市場價來計算的話，台灣區價格
@@ -9147,6 +9153,7 @@ ISO 27001在網路上查詢，可以發現它是資訊安全管理系統，雖�
 
 ![IEC62304輔導認證驗證顧問公司](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcjwyPvV4l20eDmMJqDnqQxTe-0M99cQVseZJ_cWNKL9zxH_h0xS59QPRuv9bCtImyNquK8wSefoLoNtNK7WkLj7rPKvrjiLDOGxIS__kJtZbCZLL6NhvJQNwRJqC2BmkncMnvVsY7_tSspvlTHx5RXpuFdxYm_b51cHj6WGV3oCsW3WIMkhT-wzhj8g/w400-h300/IEC62304%E8%BC%94%E5%B0%8E%E8%AA%8D%E8%AD%89%E9%A9%97%E8%AD%89%E9%A1%A7%E5%95%8F.jpg)
 ![IEC62304輔導認證顧問費用](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB4_0k2RnPxb9Hwb4D_SShw631Jawh11_Q0QAilZwuCOIgFaTOOnzfHNWwHQL4oq6sprmhzu5dRP9pK_R6Cx4-qyJ2sODp5r_HPWrG8ae-US5vJk6SlngsXugYHuFJKjgzRY2BtW3eCZvy9Dsk8luKVpcpIjZBkZVAcse9ArwuDxHgtKD9C6opk4CK7w/w400-h281/IEC62304%E9%86%AB%E7%99%82%E8%BB%9F%E9%AB%94%E9%A1%9E%E5%88%A5%E8%AA%AA%E6%98%8E%E8%BC%94%E5%B0%8E%E9%A1%A7%E5%95%8F.jpg)
+
 
 ## IEC62304醫材軟體確效輔導費用如下:(更新於2022年4月27日)
 
@@ -9394,6 +9401,7 @@ ISO 27001在網路上查詢，可以發現它是資訊安全管理系統，雖�
 ![ISO22301輔導認證驗證](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGVqvYjqp-63S_jYFDio5phy5ZJclCmpQ-lWbbuz69bDkOh31D1HKylu7VvTDTDcMFWiDaYE1aPvFT4-tfKSvTTQIMTrVOpz0y65_ocFEe1AG9l46Dnke4Kszg1iGbRjXISzxQYhxObfiMt5u5yilgr04GDnHqvu55HDapSQ4J4rHXNvE_7lsUWps7gg/w640-h542/iso22301%E8%BC%94%E5%B0%8E%E8%AA%8D%E8%AD%89%E9%A9%97%E8%AD%89%E9%A1%A7%E5%95%8F%E8%B2%BB%E7%94%A8.jpg)
 
 
+
 ## ISO22301顧問輔導費用
 
 以市場價來計算的話，台灣區價格
@@ -9525,6 +9533,7 @@ bsi認證費用的價格區間，10人以內的價格，通常落在30萬以內
   sales@wanhung.com.tw （電話: 02-2901-9371), Line id:wanhung1911
 
  
+
 
 
 ## ISO27001認證驗證BSI2020年6月16日
@@ -9673,6 +9682,8 @@ ISO27001最早期的標準為BS7799，後來被納入國際標準成為ISO27001�
 - 經驗最豐富的法務團隊
 - 國際法律經驗法務團隊
 - 最資深的技術顧問團隊
+
+
 
 ## 品牌代運營成功案例
 
@@ -10386,9 +10397,9 @@ Risk management should cover the company's internal capital flow and its storage
 
 摘要：歐盟GDPR費用報價規劃輔導合規。GDPR符合性文件制訂 GDPR資料風險管理 GDPR查核機制 gdpr專案團隊 國際標準ISO制度的資深導入顧問 (iso27001、iso20000、iso9001、iso 22301) 國際個資保護標準的導入顧問
 
-- [GDPR符合性文件制訂](https://www.wanhung.com.tw/2018/03/gdprprice.html#GDPR%E7%AC%A6%E5%90%88%E6%80%A7%E6%96%87%E4%BB%B6%E5%88%B6%E8%A8%82)
-- [GDPR資料風險管理](https://www.wanhung.com.tw/2018/03/gdprprice.html#GDPR%E8%B3%87%E6%96%99%E9%A2%A8%E9%9A%AA%E7%AE%A1%E7%90%86)
-- [GDPR查核機制](https://www.wanhung.com.tw/2018/03/gdprprice.html#GDPR%E6%9F%A5%E6%A0%B8%E6%A9%9F%E5%88%B6)
+- [GDPR符合性文件制訂](https://www.wanhung.com.tw/2018/03/gdprconsultant.html#GDPR%E7%AC%A6%E5%90%88%E6%80%A7%E6%96%87%E4%BB%B6%E5%88%B6%E8%A8%82)
+- [GDPR資料風險管理](https://www.wanhung.com.tw/2018/03/gdprconsultant.html#GDPR%E8%B3%87%E6%96%99%E9%A2%A8%E9%9A%AA%E7%AE%A1%E7%90%86)
+- [GDPR查核機制](https://www.wanhung.com.tw/2018/03/gdprconsultant.html#GDPR%E6%9F%A5%E6%A0%B8%E6%A9%9F%E5%88%B6)
 
 ## gdpr專案團隊
 
@@ -10504,6 +10515,8 @@ GDPR顧問輔導導入費用為500000至1500000 (新台幣50萬至新台幣150�
 上市製造業公司、電子商務公司、新創公司、資產管理公司、印刷公司、二類電信公司、研究機構、衛福部醫院、A級政府機關、B級政府機關、C級政府機關、軍醫院、財團法人。
 
 （顧問群合計輔導上百個資訊安全專案），快速聯繫 Lindid:wanhung1911 ，email:joestar@wanhung.com.tw、電話：(02)2901-9371
+
+
 
 ## GDPR符合性文件制訂
 
@@ -11476,7 +11489,8 @@ IOT為 (Internet Of Things )物聯網的縮寫，白話文就是任何物品都�
 
 - [資訊架構檢視](https://www.wanhung.com.tw/2016/11/bankservice.html#%E8%B3%87%E8%A8%8A%E6%9E%B6%E6%A7%8B%E6%AA%A2%E8%A6%96)
 - [網路惡意活動檢視](https://www.wanhung.com.tw/2016/11/bankservice.html#%E7%B6%B2%E8%B7%AF%E6%83%A1%E6%84%8F%E6%B4%BB%E5%8B%95%E6%AA%A2%E8%A6%96)
-- [網站安全檢測](https://www.wanhung.com.tw/2016/11/bankservice.html#%E7%B6%B2%E8%B7%AF%E8%A8%AD%E5%82%99%E6%AA%A2%E6%B8%AC%3E%E7%B6%B2%E8%B7%AF%E8%A8%AD%E5%82%99%E3%80%81%E4%BC%BA%E6%9C%8D%E5%99%A8%E5%8F%8A%E7%B5%82%E7%AB%AF%E6%A9%9F%E8%A8%AD%E5%82%99%E6%AA%A2%E6%B8%AC%3C/a%3E%3C/li%3E%3Cli%3E%3Ca%20%20href=)
+- [網路設備、伺服器及終端機設備檢測](https://www.wanhung.com.tw/2016/11/bankservice.html#%E7%B6%B2%E8%B7%AF%E8%A8%AD%E5%82%99%E3%80%81%E4%BC%BA%E6%9C%8D%E5%99%A8%E5%8F%8A%E7%B5%82%E7%AB%AF%E6%A9%9F%E8%A8%AD%E5%82%99%E6%AA%A2%E6%B8%AC)
+- [網站安全檢測](https://www.wanhung.com.tw/2016/11/bankservice.html#%E7%B6%B2%E7%AB%99%E5%AE%89%E5%85%A8%E6%AA%A2%E6%B8%AC)
 - [安全設定檢視](https://www.wanhung.com.tw/2016/11/bankservice.html#%E5%AE%89%E5%85%A8%E8%A8%AD%E5%AE%9A%E6%AA%A2%E8%A6%96)
 - [社交工程演練](https://www.wanhung.com.tw/2016/11/bankservice.html#%E7%A4%BE%E4%BA%A4%E5%B7%A5%E7%A8%8B%E6%BC%94%E7%B7%B4)
 - [合規檢視](https://www.wanhung.com.tw/2016/11/bankservice.html#%E5%90%88%E8%A6%8F%E6%AA%A2%E8%A6%96)
@@ -11817,6 +11831,8 @@ IOT為 (Internet Of Things )物聯網的縮寫，白話文就是任何物品都�
 
 - 內部系統的掃描:由專業人士到場於內部網路進行掃描。
 - 若是對外營運網站的掃描:由專業人士透過網際網路進行網站弱點掃描測試，通常這樣的測試都會包含OWASP TOP 10常見攻擊的手法測試。
+
+
 
 ## 產製弱點掃描結果報告
 
